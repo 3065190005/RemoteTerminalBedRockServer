@@ -1,3 +1,4 @@
 # RemoteTerminalBedRockServer
 端口6234协议udp
 程序加入BedRockServer同级目录下
+EXE程序是64位 32位需要手动编译
